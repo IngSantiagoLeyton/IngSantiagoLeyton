@@ -13,10 +13,11 @@ I enjoy creating software that is both functional and meaningful. My professiona
 ---
 
 ## ⭐ About Me
-- 🎯 Focused on professional growth in **software development**  
-- 🔍 Strong interest in **Artificial Intelligence** and **automation**  
-- 🧩 I approach projects step by step, prioritizing understanding over shortcuts  
-- 📚 Constantly improving my skills in **Java, Python, and software design**
+- 🎓 Software Engineering student with a strong interest in **fullstack development** and **web applications**.  
+- 💻 Currently learning **Python, Django and Java**, while improving my knowledge of **software design** and **clean code practices**.  
+- 🌱 Always eager to learn new technologies and improve my problem-solving skills.  
+- 🚀 Goal: Grow as a **Junior Developer** and contribute to real-world projects, especially in **remote environments**.  
+- 🤝 Open to collaboration, teamwork, and sharing knowledge.  
 
 ---
 
@@ -51,3 +52,4 @@ I enjoy creating software that is both functional and meaningful. My professiona
 - 💼 University GitHub Account: [@SantiagoLeyton](https://github.com/SantiagoLeyton)
 - 📞 WhatsApp: [Just Messages](https://wa.me/573028629160)
 - 📩 Gmail: slleyton06@gmail.com
+- ℹ️ Linkedin: [Santiago Leyton](https://www.linkedin.com/in/dantiado-leyton-36667a367)
